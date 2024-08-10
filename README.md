@@ -1,5 +1,5 @@
 # PERN Stack Project: Build a Real Time Chat App | Postgres, TypeScript, Prisma
-
+deplyment link -->>> https://chat-app-mejk.onrender.com/
 Some Features:
 
 -   🌟 Tech stack: PERN + TypeScript + Socket.io + Prisma + TailwindCSS
